@@ -1,5 +1,5 @@
 {
-	"name": "Fortran Docker",
+	"name": "AtCoder-Beginner-Contest",
 	"dockerFile": "Dockerfile",
 	"extensions": [
 		"yukiuuh.vscode-modern-fortran-formatter", //vscode-modern-fortran-formatter
