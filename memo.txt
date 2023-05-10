@@ -1,8 +1,6 @@
-RUN sudo apt-get install -y openssh-server
-RUN sudo apt-get install git-all -y
-git config --global user.name 'onodera-g'
-git config --global user.email 'username@example.com'
-
-git config --global core.editor 'code --wait'
-git config --global merge.tool 'code --wait "$MERGED"'
-git config --global push.default simple
+キーボード、ディスプレイの使い方から書いてある。
+擁護の説明、フローチャートの見方、コードの城跡について一通り説明してから本番に入る。
+キーボード入力時のEND指定子が動作しない
+プログラム例について、各変数に数値がいつ格納され、どの様に変化していくかを図でわかりやすくまとめられている。
+練習問題の答えがない
+フローズがついてない

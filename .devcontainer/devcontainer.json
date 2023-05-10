@@ -1,5 +1,5 @@
 {
-	"name": "AtCoder-Beginner-Contest",
+	"name": "ISBN4-526-02560-7",
 	"dockerFile": "Dockerfile",
 	"extensions": [
 		"yukiuuh.vscode-modern-fortran-formatter", //vscode-modern-fortran-formatter

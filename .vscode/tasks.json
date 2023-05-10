@@ -6,8 +6,7 @@
             "type": "shell",
             "command": "gfortran",
             "args": [
-                "${fileBasenameNoExtension}.f95",
-                "-g",
+                "${fileBasenameNoExtension}.f",
                 "-o",
                 "${fileBasenameNoExtension}.out"
             ],
