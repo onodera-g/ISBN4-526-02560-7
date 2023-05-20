@@ -8,7 +8,7 @@
       KOSUU=0
       GOUKEI=0.0
 * ファイルを読み込む
-      OPEN(99,FILE='program3-1.txt',STATUS='OLD')
+      OPEN(99,FILE='F3X1.txt',STATUS='OLD')
       DO 100 I=1,20,1
             READ(99,*,END=200)A(I)
             KOSUU=KOSUU+1
