@@ -1,5 +1,5 @@
 ***  PROGRAM 4.7  ***
-***  GANRIGOUKEI NO KEISAN  ***
+***  TRANSPOSE MATRIX AND MATRIX PRODUCT  ***
 *
       PROGRAM F4X7
       REAL A(2,3),B(3,2),C(2,2)
