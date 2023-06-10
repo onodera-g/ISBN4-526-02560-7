@@ -1,6 +1,6 @@
 ***  PROGRAM 6.1  ***
 ***  PRECISION TEST  ***
-*
+*　
       PROGRAM F6X1
             REAL R
             DOUBLE PRECISION D
