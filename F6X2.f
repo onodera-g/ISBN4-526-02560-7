@@ -1,6 +1,6 @@
 ***  PROGRAM 6.2  ***
 ***  ROOTS OF QUADRATIC EQUATION  ***
-*　
+*
       PROGRAM F6X2
             REAL A,B,C
             COMPLEX CA,CB,CC,X1,X2,SD

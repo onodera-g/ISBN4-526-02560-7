@@ -1,6 +1,6 @@
 ***  PROGRAM 6.3  ***
 ***  HALF ADDER  ***
-*　
+*
       PROGRAM F6X3
             LOGICAL A,B,S,C
 *A,B,Cの入力
