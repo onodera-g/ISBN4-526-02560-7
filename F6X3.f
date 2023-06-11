@@ -3,7 +3,7 @@
 *
       PROGRAM F6X3
             LOGICAL A,B,S,C
-*A,B,Cの入力 
+*A,B,Cの入力
             READ(5,*)A,B
 *値の初期化
 *S:AとBのどちらかが真なら真
