@@ -1,6 +1,6 @@
 ***  PROGRAM 6.4  ***
 ***  FREQUENCY ***
-* 
+*
       PROGRAM F6X4
             INTEGER I,J,FREQ(0:9)
             REAL DATA(30)
