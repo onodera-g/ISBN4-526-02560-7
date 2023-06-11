@@ -4,7 +4,7 @@
       PROGRAM F6X4
             INTEGER I,J,FREQ(0:9)
             REAL DATA(30)
-*FREQの初期化
+*FREQの初期化 
             DATA FREQ/10*0/
 *DATAの入力
             READ(5,10)(DATA(I),I=1,30)

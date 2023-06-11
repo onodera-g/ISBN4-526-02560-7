@@ -4,7 +4,7 @@
       PROGRAM F6X2
             REAL A,B,C
             COMPLEX CA,CB,CC,X1,X2,SD
-*A,B,Cの入力
+*A,B,Cの入力 
             READ(5,*)A,B,C
 *値の初期化
             CA=A
