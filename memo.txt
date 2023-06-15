@@ -21,3 +21,8 @@ F4.7X FORMAT 60に謎の' 1'が挿入されている。(出力例にはない),�
 common文
 DOBLE PREDISON文
 
+program7,2 引数にA入れるとメモリエラーになる
+Program received signal SIGSEGV: Segmentation fault - invalid memory reference.
+
+F7.7
+33 終了ょうけん　＋hだと１回少なく終わるからなくした
